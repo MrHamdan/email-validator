@@ -18,5 +18,5 @@ const emailValidator = () => {
             result.style.color = 'red';
         }
     }
-
+    getInput.value = '';
 }
